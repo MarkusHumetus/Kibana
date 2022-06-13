@@ -8,7 +8,7 @@ Exercises to learn and train working with **Kibana**, a practical graphical tool
 
 ## Getting Started
 
-The [Jupyter Notebook](https://github.com/MarkusHumetus/Bases_de_dades_NoSQL/blob/main/S14_T01_Bases%20de%20dades%20no%20relacionals.ipynb) was run in **Python3.7** and next libraries were installed specifically for the use of this tipe of tool:
+The [Jupyter Notebook](https://github.com/MarkusHumetus/Kibana/blob/main/S15_T01_Kibana.ipynb) was run in **Python3.7** and next libraries were installed specifically for the use of this tipe of tool:
 **pymongo**: driver for DDBB (Motor could be used as alternative)
 **dnspython**: to use cloud version
 **datetime** for date&time data managing
