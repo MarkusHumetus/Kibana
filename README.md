@@ -21,8 +21,7 @@ One must be logged in the Elastic service (free trial account for 14 days) and i
 
 There is also the file [requirements.txt](https://github.com/MarkusHumetus/Bases_de_dades_NoSQL/blob/main/requirements.txt) that include all libraries installed in the environment used to run the Jupyter Notebook.
 
-## Contact Info 
+## Contact Info
 
 Please, if any comment, doubt,... feel free to contact me by email to marc.humet.datascience@gmail.com
 I will answer as soon as I can.
-
