@@ -15,9 +15,7 @@ The [Jupyter Notebook](https://github.com/MarkusHumetus/Kibana/blob/main/S15_T01
 
 Take care to change password and name of the DDBB for the connection text adress.
 
-One must be logged in the Elastic service (free trial account for 14 days) and install the **MongoDB Community Server**(version 5.0.9 installed for Windows) which should include MongoDB Comapss.
-
-* [Video to install MongoDB (spanish)](https://www.youtube.com/watch?v=c8n6JsQuX2A)
+One must be logged in the Elastic service (free trial account for 14 days).
 
 There is also the file [requirements.txt](https://github.com/MarkusHumetus/Bases_de_dades_NoSQL/blob/main/requirements.txt) that include all libraries installed in the environment used to run the Jupyter Notebook.
 
